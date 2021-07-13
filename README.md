@@ -14,11 +14,11 @@
   -  A way for a user t ostore and review breweries they have visited
   -  Utilized create-react-app and Semantic-UI for front-end user interface
   -  Rails API with Active Record and SQLite3  for back-end routing and data management
-- 🔖 Cigar Bar - Repository | Demo
+- 🔖 Cigar Bar - [Repository](https://github.com/builtbyjosh/cigar_bar) | [Demo](https://youtu.be/agmWpzSqKvQ)
   - A virtual humidor where users can save the cigars they currently have and sorty by the style of cigar
   - Single-page app utilizing JavaScript, HTML, CSS, and Bootstrap for front-end 
   - Rails API with Active Record and SQLite3  for back-end routing and data management 
-- 🔖 GameStoop - Repository | Demo
+- 🔖 GameStoop - [Repository](https://github.com/builtbyjosh/GameStoopV2) | Demo
   - A simple online store with cart
   - Created using Ruby on Rails with SQLite3 for data management
   - Utilized OmniAuth for user authentication and Active Admin for listing creation
