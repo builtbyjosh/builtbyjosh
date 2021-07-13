@@ -16,7 +16,7 @@
   - A virtual humidor where users can save the cigars they currently have and sorty by the style of cigar
   - Single-page app utilizing JavaScript, HTML, CSS, and Bootstrap for front-end 
   - Rails API with Active Record and SQLite3  for back-end routing and data management 
-- 🔖 GameStoop - [Repository](https://github.com/builtbyjosh/GameStoopV2) | Demo
+- 🔖 GameStoop - [Repository](https://github.com/builtbyjosh/GameStoopV2) | [Demo](https://youtu.be/5FtyFhf1QXw)
   - A simple online store with cart
   - Created using Ruby on Rails with SQLite3 for data management
   - Utilized OmniAuth for user authentication and Active Admin for listing creation
