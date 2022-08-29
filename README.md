@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I graduated from Flatiron School OnlineSoftware Engineering Program
-- 🌱 I’m currently learning React and React Native
+- 🌱 I’m currently learning NextJS and Jest testing
 - 👯 I am proficient in: JavaScript, TypeScript, React, Chakra-UI, Git, Cypress testing, HTML, CSS
 - 📫 How to reach me: [Email](mailto:joshuacollins912@gmail.com) | [LinkedIn](https://www.linkedin.com/in/joshuajohncollins/)
 - ⚡ Fun fact: I have two banjos and have played disc golf for almost half of my life!
