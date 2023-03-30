@@ -8,6 +8,11 @@
 
 ### Portfolio
 
+- 🔖 Portfolio Site - [Repository](https://github.com/builtbyjosh/builtbyjosh-next-portfolio) | [Demo](https://www.builtbyjosh.com)
+  - A Personal Portfolio Site built using Nextjs, Chakra-UI, and Firebase
+  - CRUD operations handled on Admin page through use of Firestore
+  - Firebase Authorization is used for Admin Login
+  - Contact Form is handled through the SendGrid API
 - 🔖Tipsy List - [Repository](https://github.com/builtbyjosh/tipsy_list_v2) | [Demo](https://youtu.be/YWufa5qcmzU)
   -  A way for a user t ostore and review breweries they have visited
   -  Utilized create-react-app and Semantic-UI for front-end user interface
@@ -16,7 +21,4 @@
   - A virtual humidor where users can save the cigars they currently have and sorty by the style of cigar
   - Single-page app utilizing JavaScript, HTML, CSS, and Bootstrap for front-end 
   - Rails API with Active Record and SQLite3  for back-end routing and data management 
-- 🔖 GameStoop - [Repository](https://github.com/builtbyjosh/GameStoopV2) | [Demo](https://youtu.be/5FtyFhf1QXw)
-  - A simple online store with cart
-  - Created using Ruby on Rails with SQLite3 for data management
-  - Utilized OmniAuth for user authentication and Active Admin for listing creation
+
